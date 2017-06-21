@@ -1,6 +1,8 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal 
-#### by Egor Ermilov  
+by Egor Ermilov  
+
+
 
 Original dataset:
 https://inclass.kaggle.com/c/facial-keypoints-detector/download/train.csv
